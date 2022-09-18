@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaebjgh
-- 👀 I’m interested in datascience, machine learning, artificial intelligance and data engineering
+- 👀 I’m interested in datascience, machine learning, artificial intelligence and data engineering
 - 🌱 I’m currently studying data science at the university of applied sciences in kiel, germany
 
 <!---
